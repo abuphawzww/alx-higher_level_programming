@@ -24,5 +24,3 @@ if __name__ == '__main__':
     print(add_tuple(a, b))
     print(add_tuple(a, (1,)))
     print(add_tuple(a, ()))
-
-
